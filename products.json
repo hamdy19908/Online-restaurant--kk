@@ -1,0 +1,130 @@
+[
+    {
+        "id": 2,
+        "name": "شاورما دجاج",
+        "description": "شاورما دجاج مشوية مع خضار طازجة وصلصة الثوم، ملفوفة بخبز بيتا.",
+        "price": 20,
+        "category": "main",
+        "image": "download (4).jpeg"
+    },
+    {
+        "id": 3,
+        "name": "برجر لحم",
+        "description": "برجر لحم بقري طازج مع جبنة شيدر وخضار طازجة، مع صلصة خاصة.",
+        "price": 30,
+        "category": "main",
+        "image": "https:\/\/images.unsplash.com\/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 6,
+        "name": "بيتزا لحم",
+        "description": "بيتزا مع لحم بقري وجبنة موزاريلا وصلصة طماطم طازجة.",
+        "price": 40,
+        "category": "main",
+        "image": "https:\/\/images.unsplash.com\/photo-1541745537411-b8046dc6d66c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 7,
+        "name": "ساندويش جبنة",
+        "description": "ساندويش مع جبنة مشوية وخضار طازجة، مع صلصة خاصة.",
+        "price": 15,
+        "category": "main",
+        "image": "https:\/\/images.unsplash.com\/photo-1485451456034-3f9391c6f769?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 8,
+        "name": "سلطة يونانية",
+        "description": "سلطة طازجة مع خضار وخيار وطماطم وزيتون وجبنة فيتا.",
+        "price": 18,
+        "category": "salads",
+        "image": "https:\/\/images.unsplash.com\/photo-1546793665-c74683f339c1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 9,
+        "name": "سلطة سيزر",
+        "description": "سلطة سيزر مع خس روماني وقطع خبز محمص وجبنة بارميزان.",
+        "price": 22,
+        "category": "salads",
+        "image": "https:\/\/images.unsplash.com\/photo-1540420773420-3366772f4999?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 10,
+        "name": "بطاطس مقلية",
+        "description": "بطاطس مقلية مقرمشة مع صلصة خاصة.",
+        "price": 10,
+        "category": "appetizers",
+        "image": "https:\/\/images.unsplash.com\/photo-1585109649139-366815a0d713?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 11,
+        "name": "حلقات بصل",
+        "description": "حلقات بصل مقلية مقرمشة مع صلصة خاصة.",
+        "price": 12,
+        "category": "appetizers",
+        "image": "download (1).jpeg"
+    },
+    {
+        "id": 12,
+        "name": "كنافة",
+        "description": "كنافة نابلسية بالقشطة، طازجة ومغطاة بالقطر.",
+        "price": 15,
+        "category": "desserts",
+        "image": "download (6).jpeg"
+    },
+    {
+        "id": 13,
+        "name": "بقلاوة",
+        "description": "بقلاوة محشوة بالفستق الحلبي، طازجة ومغطاة بالقطر.",
+        "price": 15,
+        "category": "desserts",
+        "image": "download.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "مشروب غازي",
+        "description": "مشروب غازي بارد من اختيارك (بيبسي، سفن أب، ميرندا).",
+        "price": 5,
+        "category": "drinks",
+        "image": "https:\/\/images.unsplash.com\/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 15,
+        "name": "عصير برتقال",
+        "description": "عصير برتقال طازج ومبرد.",
+        "price": 8,
+        "category": "drinks",
+        "image": "https:\/\/images.unsplash.com\/photo-1603569283847-aa295f0d016a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 16,
+        "name": "قهوة عربية",
+        "description": "قهوة عربية أصيلة مع هيل.",
+        "price": 10,
+        "category": "drinks",
+        "image": "download (2).jpeg"
+    },
+    {
+        "id": 17,
+        "name": "تت",
+        "description": "فففغالا",
+        "price": 44,
+        "category": "appetizers",
+        "image": "uploads\/68835219a55bf.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "hamdy",
+        "description": "222",
+        "price": 44,
+        "category": "drinks",
+        "image": "https:\/\/i.ibb.co\/QzkFKXn\/a8eda1f4f9cc.jpg"
+    },
+    {
+        "id": 19,
+        "name": "hamdy",
+        "description": "222",
+        "price": 44,
+        "category": "drinks",
+        "image": "https:\/\/i.ibb.co\/QzkFKXn\/a8eda1f4f9cc.jpg "
+    }
+]
