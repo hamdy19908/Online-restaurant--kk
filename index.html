@@ -1273,7 +1273,7 @@
         function loadMenuData() {
             loadingSpinner.classList.add('show');
             
-            fetch('products.json')
+            fetch('https://hamdy19908.github.io/Online-restaurant--kk/products.json')
                 .then(response => response.json())
                 .then(data => {
                     menuData = data;
